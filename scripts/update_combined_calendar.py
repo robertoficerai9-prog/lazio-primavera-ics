@@ -15,6 +15,7 @@ TEAMS = [
     ("Hellas Verona U15", 1233776),
     ("Torino U15", 933354),
     ("Arezzo U17", 933397),
+    # Fonte di controllo per le giovanili italiane: Tuttocampo (Sofascore resta il feed dati principale).
 ]
 
 OUTPUT = "calendario-completo.ics"
