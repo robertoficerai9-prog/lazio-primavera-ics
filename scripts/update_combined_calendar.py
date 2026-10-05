@@ -7,15 +7,19 @@ TEAMS = [
     ("Lazio U20", 826821),
     ("Roma U20", 340799),
     ("Lecce U20", 826809),
+    ("Bari Serie C", 2712),
+    ("Barletta Serie C", 25154),
+    ("Gubbio Serie C", 2782),
+    ("Juventus Next Gen Serie C", 294884),
     ("FC Zürich U19", 197188),
     ("FC Zürich U17", 1266172),
     ("Grasshopper U19", 325671),
     ("Grasshopper U17", 1124697),
     ("Palermo U20", 64119),
-    ("Hellas Verona U15", 1233776),
-    ("Torino U15", 933354),
+    ("Hellas Verona U17", 1145924),
+    ("Torino U17", 1145811),
     ("Arezzo U17", 933397),
-    # Fonte di controllo per le giovanili italiane: Tuttocampo (Sofascore resta il feed dati principale).
+    # Fonti di controllo: Diretta per Serie C; Lega B per Primavera 2; ASF per il calcio giovanile svizzero; Tuttocampo/Gazzetta Regionale per U17 italiani.
 ]
 
 OUTPUT = "calendario-completo.ics"
