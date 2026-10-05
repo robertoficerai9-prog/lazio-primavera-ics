@@ -15,7 +15,7 @@ permissions:
 jobs:
   update:
     if: github.actor != 'github-actions[bot]'
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
