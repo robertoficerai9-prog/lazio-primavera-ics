@@ -1,8 +1,186 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Frosinone - Primavera 2//SofaScore//IT
+PRODID:-//lazio-primavera-ics//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Frosinone - Primavera 2
-X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:20260905-Benevento-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Benevento - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 1ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-Frosinone-Pisa@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260912
+SUMMARY:Frosinone - Pisa
+DESCRIPTION:Frosinone Primavera 2 - 2ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-Catanzaro-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Catanzaro - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 3ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-Frosinone-Palermo@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261010
+SUMMARY:Frosinone - Palermo
+DESCRIPTION:Frosinone Primavera 2 - 4ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-Cosenza-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261017
+SUMMARY:Cosenza - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 5ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-Perugia-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261024
+SUMMARY:Perugia - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 6ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-Frosinone-Latina@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Frosinone - Latina
+DESCRIPTION:Frosinone Primavera 2 - 7ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-Napoli-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Napoli - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 8ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-Frosinone-Avellino@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Frosinone - Avellino
+DESCRIPTION:Frosinone Primavera 2 - 9ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-Monopoli-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Monopoli - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 10ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-Frosinone-Spezia@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Frosinone - Spezia
+DESCRIPTION:Frosinone Primavera 2 - 11ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-Frosinone-Salernitana@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Frosinone - Salernitana
+DESCRIPTION:Frosinone Primavera 2 - 12ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-Bari-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Bari - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 13ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270109-Frosinone-Pescara@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Frosinone - Pescara
+DESCRIPTION:Frosinone Primavera 2 - 14ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270116-Frosinone-Ascoli@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Frosinone - Ascoli
+DESCRIPTION:Frosinone Primavera 2 - 15ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270123-Pisa-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270123
+SUMMARY:Pisa - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 16ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130-Frosinone-Bari@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Frosinone - Bari
+DESCRIPTION:Frosinone Primavera 2 - 17ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206-Spezia-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270206
+SUMMARY:Spezia - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 18ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270213-Frosinone-Napoli@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Frosinone - Napoli
+DESCRIPTION:Frosinone Primavera 2 - 19ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220-Pescara-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270220
+SUMMARY:Pescara - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 20ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270227-Salernitana-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270227
+SUMMARY:Salernitana - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 21ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270306-Spezia-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270306
+SUMMARY:Spezia - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 22ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270313-Frosinone-Bari@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270313
+SUMMARY:Frosinone - Bari
+DESCRIPTION:Frosinone Primavera 2 - 23ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270320-Pescara-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Pescara - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 24ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270403-Latina-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Latina - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 25ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270410-Frosinone-Napoli@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270410
+SUMMARY:Frosinone - Napoli
+DESCRIPTION:Frosinone Primavera 2 - 26ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270417-Ascoli-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270417
+SUMMARY:Ascoli - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 27ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424-Frosinone-Benevento@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270424
+SUMMARY:Frosinone - Benevento
+DESCRIPTION:Frosinone Primavera 2 - 28ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-Palermo-Frosinone@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Palermo - Frosinone
+DESCRIPTION:Frosinone Primavera 2 - 29ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270508-Frosinone-Monopoli@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270508
+SUMMARY:Frosinone - Monopoli
+DESCRIPTION:Frosinone Primavera 2 - 30ª giornata
+END:VEVENT
 END:VCALENDAR
