@@ -20,6 +20,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install reliable HTTP client
+        run: python3 -m pip install --disable-pip-version-check --no-input curl_cffi
+
       - name: Generate Lazio ICS from SofaScore
         run: python3 scripts/update_calendar.py
 
