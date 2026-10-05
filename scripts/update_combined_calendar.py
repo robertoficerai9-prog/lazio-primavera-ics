@@ -19,7 +19,7 @@ TEAMS = [
     ("Hellas Verona U17", 1145924),
     ("Torino U17", 1145811),
     ("Arezzo U17", 933397),
-    # Fonti di controllo: Diretta per Serie C; Lega B per Primavera 2; ASF per il calcio giovanile svizzero; Tuttocampo/Gazzetta Regionale per U17 italiani.
+    # Fonte: SofaScore per tutte le squadre non gestite da ASF/Tuttocampo.
 ]
 
 OUTPUT = "calendario-completo.ics"
