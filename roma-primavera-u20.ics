@@ -61,7 +61,7 @@ DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 9a giornata
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-10@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261108T110000
+DTSTART;TZID=Europe/Rome:20261107T110000
 SUMMARY:Roma U20 - Verona U20
 DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 10a giornata
 END:VEVENT
@@ -73,13 +73,13 @@ DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 11a giornata
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-12@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261129T110000
+DTSTART;TZID=Europe/Rome:20261128T110000
 SUMMARY:Roma U20 - Fiorentina U20
 DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 12a giornata
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-13@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261204T110000
+DTSTART;TZID=Europe/Rome:20261205T110000
 SUMMARY:Roma U20 - Bologna U20
 DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 13a giornata
 END:VEVENT
@@ -91,7 +91,7 @@ DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 14a giornata
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-15@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261217T110000
+DTSTART;TZID=Europe/Rome:20261216T110000
 SUMMARY:Albinoleffe U20 - Roma U20
 DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 15a giornata
 END:VEVENT
