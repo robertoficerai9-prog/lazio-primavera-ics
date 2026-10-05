@@ -6,12 +6,13 @@ on:
     paths-ignore:
       - "**/*.ics"
 
+schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
-  schedule:
-    - cron: "17 */6 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
