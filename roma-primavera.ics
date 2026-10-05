@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bari - Serie C//SofaScore//IT
+PRODID:-//Roma - Primavera//SofaScore//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Bari - Serie C
+X-WR-CALNAME:Roma - Primavera
 X-WR-TIMEZONE:Europe/Rome
 END:VCALENDAR

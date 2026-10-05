@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bari - Serie C//SofaScore//IT
+PRODID:-//Juventus Next Gen - Serie C//SofaScore//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Bari - Serie C
+X-WR-CALNAME:Juventus Next Gen - Serie C
 X-WR-TIMEZONE:Europe/Rome
 END:VCALENDAR
