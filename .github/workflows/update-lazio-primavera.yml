@@ -9,17 +9,13 @@ on:
     - cron: "17 */6 * * *"
   workflow_dispatch:
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 permissions:
   contents: write
 
 jobs:
   update:
     if: github.actor != 'github-actions[bot]'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - name: Checkout
         uses: actions/checkout@v4
