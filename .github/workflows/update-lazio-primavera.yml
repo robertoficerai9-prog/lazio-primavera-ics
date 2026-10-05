@@ -3,6 +3,12 @@ name: Update Lazio Primavera ICS
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "**/*.ics"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
