@@ -1,8 +1,186 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Palermo - Primavera 2//SofaScore//IT
+PRODID:-//lazio-primavera-ics//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Palermo - Primavera 2
-X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:20260905-palermo-1@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Palermo - Pescara
+DESCRIPTION:Palermo Primavera 2 - 1ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-palermo-2@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260912
+SUMMARY:Spezia - Palermo
+DESCRIPTION:Palermo Primavera 2 - 2ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-palermo-3@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Palermo - Bari
+DESCRIPTION:Palermo Primavera 2 - 3ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-palermo-4@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261010
+SUMMARY:Frosinone - Palermo
+DESCRIPTION:Palermo Primavera 2 - 4ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-palermo-5@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261017
+SUMMARY:Palermo - Perugia
+DESCRIPTION:Palermo Primavera 2 - 5ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-palermo-6@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261024
+SUMMARY:Salernitana - Palermo
+DESCRIPTION:Palermo Primavera 2 - 6ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-palermo-7@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Palermo - Catanzaro
+DESCRIPTION:Palermo Primavera 2 - 7ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-palermo-8@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Avellino - Palermo
+DESCRIPTION:Palermo Primavera 2 - 8ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-palermo-9@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Pisa - Palermo
+DESCRIPTION:Palermo Primavera 2 - 9ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-palermo-10@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Palermo - Latina
+DESCRIPTION:Palermo Primavera 2 - 10ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-palermo-11@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Palermo - Ascoli
+DESCRIPTION:Palermo Primavera 2 - 11ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-palermo-12@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Napoli - Palermo
+DESCRIPTION:Palermo Primavera 2 - 12ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-palermo-13@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Palermo - Cosenza
+DESCRIPTION:Palermo Primavera 2 - 13ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270109-palermo-14@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Benevento - Palermo
+DESCRIPTION:Palermo Primavera 2 - 14ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270116-palermo-15@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Palermo - Monopoli
+DESCRIPTION:Palermo Primavera 2 - 15ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270123-palermo-16@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270123
+SUMMARY:Perugia - Palermo
+DESCRIPTION:Palermo Primavera 2 - 16ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130-palermo-17@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Palermo - Avellino
+DESCRIPTION:Palermo Primavera 2 - 17ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206-palermo-18@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270206
+SUMMARY:Ascoli - Palermo
+DESCRIPTION:Palermo Primavera 2 - 18ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270213-palermo-19@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Palermo - Napoli
+DESCRIPTION:Palermo Primavera 2 - 19ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220-palermo-20@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270220
+SUMMARY:Pescara - Palermo
+DESCRIPTION:Palermo Primavera 2 - 20ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270227-palermo-21@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270227
+SUMMARY:Palermo - Spezia
+DESCRIPTION:Palermo Primavera 2 - 21ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270306-palermo-22@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270306
+SUMMARY:Latina - Palermo
+DESCRIPTION:Palermo Primavera 2 - 22ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270313-palermo-23@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270313
+SUMMARY:Palermo - Benevento
+DESCRIPTION:Palermo Primavera 2 - 23ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270320-palermo-24@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Bari - Palermo
+DESCRIPTION:Palermo Primavera 2 - 24ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270403-palermo-25@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Palermo - Pisa
+DESCRIPTION:Palermo Primavera 2 - 25ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270410-palermo-26@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270410
+SUMMARY:Palermo - Salernitana
+DESCRIPTION:Palermo Primavera 2 - 26ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270417-palermo-27@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270417
+SUMMARY:Monopoli - Palermo
+DESCRIPTION:Palermo Primavera 2 - 27ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424-palermo-28@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270424
+SUMMARY:Catanzaro - Palermo
+DESCRIPTION:Palermo Primavera 2 - 28ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-palermo-29@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Palermo - Frosinone
+DESCRIPTION:Palermo Primavera 2 - 29ª giornata
+END:VEVENT
+BEGIN:VEVENT
+UID:20270508-palermo-30@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270508
+SUMMARY:Cosenza - Palermo
+DESCRIPTION:Palermo Primavera 2 - 30ª giornata
+END:VEVENT
 END:VCALENDAR
