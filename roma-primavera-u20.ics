@@ -1,236 +1,236 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Roma Primavera U20//IT
+PRODID:-//Roma Primavera U20 2026-27//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Roma Primavera U20
+X-WR-CALNAME:Roma Primavera U20 2026/27 - Lega Serie A + SofaScore
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 UID:roma-u20-2026-27-1@lazio-primavera-ics
 DTSTART;TZID=Europe/Rome:20260822T110000
-SUMMARY:Roma U20 - Monza U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 1a giornata
+SUMMARY:22/08/2026 - 11:00 - Roma U20 - Monza U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-2@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20260830T110000
-SUMMARY:Atalanta U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 2a giornata
+DTSTART;TZID=Europe/Rome:20260829T110000
+SUMMARY:29/08/2026 - 11:00 - Atalanta U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-3@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20260904T110000
-SUMMARY:Lecce U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 3a giornata
+DTSTART;TZID=Europe/Rome:20260905T110000
+SUMMARY:05/09/2026 - 11:00 - Lecce U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-4@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20260914T150000
-SUMMARY:Roma U20 - Como U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 4a giornata
+DTSTART;TZID=Europe/Rome:20260912T110000
+SUMMARY:12/09/2026 - 11:00 - Milan U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-5@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20260920T110000
-SUMMARY:Milan U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 5a giornata
+DTSTART;TZID=Europe/Rome:20260919T110000
+SUMMARY:19/09/2026 - 11:00 - Roma U20 - Como U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-6@lazio-primavera-ics
 DTSTART;TZID=Europe/Rome:20261010T120000
-SUMMARY:Roma U20 - Empoli U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 6a giornata
+SUMMARY:10/10/2026 - 12:00 - Torino U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-7@lazio-primavera-ics
 DTSTART;TZID=Europe/Rome:20261017T120000
-SUMMARY:Torino U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 7a giornata
+SUMMARY:17/10/2026 - 12:00 - Roma U20 - Genoa U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-8@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261024T110000
-SUMMARY:Roma U20 - Genoa U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 8a giornata
+DTSTART;VALUE=DATE:20261024
+SUMMARY:24/10/2026 - ORARIO DA DEFINIRE - Inter U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-9@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261030T200000
-SUMMARY:Inter U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 9a giornata
+DTSTART;TZID=Europe/Rome:20261031T120000
+SUMMARY:31/10/2026 - 12:00 - Roma U20 - Torino U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-10@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261107T110000
-SUMMARY:Roma U20 - Verona U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 10a giornata
+DTSTART;VALUE=DATE:20261107
+SUMMARY:07/11/2026 - ORARIO DA DEFINIRE - Cesena U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-11@lazio-primavera-ics
-DTSTART;VALUE=DATE:20261121
-SUMMARY:Cesena U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 11a giornata
+DTSTART;TZID=Europe/Rome:20261121T110000
+SUMMARY:21/11/2026 - 11:00 - Roma U20 - Fiorentina U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-12@lazio-primavera-ics
 DTSTART;TZID=Europe/Rome:20261128T110000
-SUMMARY:Roma U20 - Fiorentina U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 12a giornata
+SUMMARY:28/11/2026 - 11:00 - Roma U20 - Bologna U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-13@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261205T110000
-SUMMARY:Roma U20 - Bologna U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 13a giornata
+DTSTART;VALUE=DATE:20261205
+SUMMARY:05/12/2026 - ORARIO DA DEFINIRE - Parma U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-14@lazio-primavera-ics
 DTSTART;VALUE=DATE:20261212
-SUMMARY:Juventus U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 14a giornata
+SUMMARY:12/12/2026 - ORARIO DA DEFINIRE - Roma U20 - Parma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-15@lazio-primavera-ics
-DTSTART;TZID=Europe/Rome:20261216T110000
-SUMMARY:Albinoleffe U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 15a giornata
+DTSTART;VALUE=DATE:20261216
+SUMMARY:16/12/2026 - ORARIO DA DEFINIRE - Sassuolo U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-16@lazio-primavera-ics
-DTSTART;VALUE=DATE:20261221
-SUMMARY:Sassuolo U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 16a giornata
+DTSTART;VALUE=DATE:20261219
+SUMMARY:19/12/2026 - ORARIO DA DEFINIRE - Roma U20 - Cagliari U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-17@lazio-primavera-ics
 DTSTART;TZID=Europe/Rome:20270103T150000
-SUMMARY:Roma U20 - Cagliari U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 17a giornata
+SUMMARY:03/01/2027 - 15:00 - Parma U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-18@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270106
-SUMMARY:Parma U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 18a giornata
+SUMMARY:06/01/2027 - ORARIO DA DEFINIRE - Roma U20 - Torino U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-19@lazio-primavera-ics
-DTSTART;VALUE=DATE:20270110
-SUMMARY:Roma U20 - Lazio U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 19a giornata
+DTSTART;VALUE=DATE:20270109
+SUMMARY:09/01/2027 - ORARIO DA DEFINIRE - Como U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-20@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270116
-SUMMARY:Como U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 20a giornata
+SUMMARY:16/01/2027 - ORARIO DA DEFINIRE - Roma U20 - Inter U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-21@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270123
-SUMMARY:Roma U20 - Inter U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 21a giornata
+SUMMARY:23/01/2027 - ORARIO DA DEFINIRE - Parma U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-22@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270130
-SUMMARY:Monza U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 22a giornata
+SUMMARY:30/01/2027 - ORARIO DA DEFINIRE - Roma U20 - Juventus U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-23@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270206
-SUMMARY:Roma U20 - Juventus U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 23a giornata
+SUMMARY:06/02/2027 - ORARIO DA DEFINIRE - Genoa U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-24@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270213
-SUMMARY:Genoa U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 24a giornata
+SUMMARY:13/02/2027 - ORARIO DA DEFINIRE - Verona U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-25@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270220
-SUMMARY:Verona U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 25a giornata
+SUMMARY:20/02/2027 - ORARIO DA DEFINIRE - Roma U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-26@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270227
-SUMMARY:Roma U20 - Milan U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 26a giornata
+SUMMARY:27/02/2027 - ORARIO DA DEFINIRE - Empoli U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-27@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270303
-SUMMARY:Empoli U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 27a giornata
+SUMMARY:03/03/2027 - ORARIO DA DEFINIRE - Roma U20 - Cesena U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-28@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270306
-SUMMARY:Roma U20 - Cesena U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 28a giornata
+SUMMARY:06/03/2027 - ORARIO DA DEFINIRE - Cagliari U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-29@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270313
-SUMMARY:Cagliari U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 29a giornata
+SUMMARY:13/03/2027 - ORARIO DA DEFINIRE - Roma U20 - Atalanta U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-30@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270320
-SUMMARY:Roma U20 - Atalanta U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 30a giornata
+SUMMARY:20/03/2027 - ORARIO DA DEFINIRE - Roma U20 - Torino U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-31@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270403
-SUMMARY:Roma U20 - Torino U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 31a giornata
+SUMMARY:03/04/2027 - ORARIO DA DEFINIRE - Lazio U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-32@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270410
-SUMMARY:Lazio U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 32a giornata
+SUMMARY:10/04/2027 - ORARIO DA DEFINIRE - Roma U20 - Parma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-33@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270417
-SUMMARY:Roma U20 - Parma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 33a giornata
+SUMMARY:17/04/2027 - ORARIO DA DEFINIRE - Fiorentina U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-34@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270424
-SUMMARY:Fiorentina U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 34a giornata
+SUMMARY:24/04/2027 - ORARIO DA DEFINIRE - Roma U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-35@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270501
-SUMMARY:Roma U20 - Lecce U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 35a giornata
+SUMMARY:01/05/2027 - ORARIO DA DEFINIRE - AlbinoLeffe U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-36@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270508
-SUMMARY:Albinoleffe U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 36a giornata
+SUMMARY:08/05/2027 - ORARIO DA DEFINIRE - Roma U20 - Sassuolo U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-37@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270515
-SUMMARY:Roma U20 - Sassuolo U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 37a giornata
+SUMMARY:15/05/2027 - ORARIO DA DEFINIRE - Bologna U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 BEGIN:VEVENT
 UID:roma-u20-2026-27-38@lazio-primavera-ics
 DTSTART;VALUE=DATE:20270522
-SUMMARY:Bologna U20 - Roma U20
-DESCRIPTION:Roma Primavera U20 - Primavera 1 2026/27 - 38a giornata
+SUMMARY:22/05/2027 - ORARIO DA DEFINIRE - Monza U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 - calendario ufficiale Lega Serie A; orario da SofaScore quando disponibile.
 END:VEVENT
 END:VCALENDAR
