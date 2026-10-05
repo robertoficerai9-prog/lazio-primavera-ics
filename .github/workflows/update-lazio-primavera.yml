@@ -18,8 +18,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate ICS from SofaScore
+      - name: Generate Lazio ICS from SofaScore
         run: python3 scripts/update_calendar.py
+
+      - name: Generate Roma ICS from SofaScore
+        run: python3 scripts/update_roma_calendar.py
 
       - name: Commit updated calendar
         run: |
