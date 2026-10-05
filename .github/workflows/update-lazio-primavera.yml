@@ -24,6 +24,9 @@ jobs:
       - name: Generate Roma ICS from SofaScore
         run: python3 scripts/update_roma_calendar.py
 
+      - name: Generate Lecce ICS from SofaScore
+        run: python3 scripts/update_lecce_calendar.py
+
       - name: Commit updated calendar
         run: |
           git config user.name "github-actions[bot]"
