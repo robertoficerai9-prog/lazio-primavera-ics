@@ -215,8 +215,8 @@ for team_name, team_id, source in TEAMS:
         events = fetch_tuttocampo_events(source, team_name)
         source_url = TUTTOCAMPO_URLS[source]
 
-    # Fallback solo per resilienza: se la fonte speciale non restituisce dati,
-    # manteniamo il calendario aggiornato tramite SofaScore.
+    # Fallback per resilienza: se la fonte speciale non restituisce dati,
+    # manteniamo comunque il calendario aggiornato tramite SofaScore.
     if not events and source != "sofascore":
         events = fetch_sofascore_events(team_id)
         source_url = None
