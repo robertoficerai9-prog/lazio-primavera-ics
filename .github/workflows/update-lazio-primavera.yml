@@ -27,10 +27,22 @@ jobs:
       - name: Generate Lecce ICS from SofaScore
         run: python3 scripts/update_lecce_calendar.py
 
+      - name: Generate FC Zürich U19 ICS from SofaScore
+        run: python3 scripts/update_zurich_u19_calendar.py
+
+      - name: Generate FC Zürich U17 ICS from SofaScore
+        run: python3 scripts/update_zurich_u17_calendar.py
+
+      - name: Generate Grasshopper U19 ICS from SofaScore
+        run: python3 scripts/update_grasshopper_u19_calendar.py
+
+      - name: Generate Grasshopper U17 ICS from SofaScore
+        run: python3 scripts/update_grasshopper_u17_calendar.py
+
       - name: Commit updated calendar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lazio-primavera.ics
-          git diff --cached --quiet || git commit -m "Update Lazio Primavera calendar"
+          git add lazio-primavera.ics roma-primavera.ics lecce-primavera.ics zurich-u19.ics zurich-u17.ics grasshopper-u19.ics grasshopper-u17.ics
+          git diff --cached --quiet || git commit -m "Update youth calendars"
           git push
