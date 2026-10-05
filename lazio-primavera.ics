@@ -1,8 +1,235 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Lazio - Primavera//SofaScore//IT
+PRODID:-//Lazio Primavera//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lazio - Primavera
-X-WR-TIMEZONE:Europe/Rome
+X-WR-CALNAME:Lazio Primavera
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-1@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260822
+SUMMARY:Lecce - Lazio
+DESCRIPTION:Lazio Primavera - 1ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-2@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Lazio - Albinoleffe
+DESCRIPTION:Lazio Primavera - 2ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-3@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Lazio - Parma
+DESCRIPTION:Lazio Primavera - 3ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-4@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260912
+SUMMARY:Cesena - Lazio
+DESCRIPTION:Lazio Primavera - 4ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-5@lazio-primavera-ics
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Lazio - Juventus
+DESCRIPTION:Lazio Primavera - 5ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-6@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261010
+SUMMARY:Bologna - Lazio
+DESCRIPTION:Lazio Primavera - 6ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-7@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261017
+SUMMARY:Lazio - Inter
+DESCRIPTION:Lazio Primavera - 7ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-8@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261024
+SUMMARY:Atalanta - Lazio
+DESCRIPTION:Lazio Primavera - 8ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-9@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Lazio - Sassuolo
+DESCRIPTION:Lazio Primavera - 9ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-10@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Cagliari - Lazio
+DESCRIPTION:Lazio Primavera - 10ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-11@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Lazio - Milan
+DESCRIPTION:Lazio Primavera - 11ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-12@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Empoli - Lazio
+DESCRIPTION:Lazio Primavera - 12ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-13@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Como - Lazio
+DESCRIPTION:Lazio Primavera - 13ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-14@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Lazio - Fiorentina
+DESCRIPTION:Lazio Primavera - 14ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-15@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Torino - Lazio
+DESCRIPTION:Lazio Primavera - 15ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-16@lazio-primavera-ics
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Lazio - Verona
+DESCRIPTION:Lazio Primavera - 16ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-17@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Genoa - Lazio
+DESCRIPTION:Lazio Primavera - 17ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-18@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270106
+SUMMARY:Lazio - Monza
+DESCRIPTION:Lazio Primavera - 18ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-19@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Roma - Lazio
+DESCRIPTION:Lazio Primavera - 19ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-20@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Lazio - Cesena
+DESCRIPTION:Lazio Primavera - 20ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-21@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270123
+SUMMARY:Milan - Lazio
+DESCRIPTION:Lazio Primavera - 21ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-22@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Lazio - Atalanta
+DESCRIPTION:Lazio Primavera - 22ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-23@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270206
+SUMMARY:Fiorentina - Lazio
+DESCRIPTION:Lazio Primavera - 23ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-24@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Lazio - Bologna
+DESCRIPTION:Lazio Primavera - 24ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-25@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270220
+SUMMARY:Lazio - Cagliari
+DESCRIPTION:Lazio Primavera - 25ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-26@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270227
+SUMMARY:Albinoleffe - Lazio
+DESCRIPTION:Lazio Primavera - 26ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-27@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Lazio - Lecce
+DESCRIPTION:Lazio Primavera - 27ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-28@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270306
+SUMMARY:Inter - Lazio
+DESCRIPTION:Lazio Primavera - 28ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-29@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270313
+SUMMARY:Lazio - Torino
+DESCRIPTION:Lazio Primavera - 29ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-30@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Parma - Lazio
+DESCRIPTION:Lazio Primavera - 30ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-31@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Lazio - Sassuolo
+DESCRIPTION:Lazio Primavera - 31ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-32@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270410
+SUMMARY:Lazio - Roma
+DESCRIPTION:Lazio Primavera - 32ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-33@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270417
+SUMMARY:Monza - Lazio
+DESCRIPTION:Lazio Primavera - 33ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-34@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270424
+SUMMARY:Lazio - Empoli
+DESCRIPTION:Lazio Primavera - 34ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-35@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Juventus - Lazio
+DESCRIPTION:Lazio Primavera - 35ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-36@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270508
+SUMMARY:Lazio - Como
+DESCRIPTION:Lazio Primavera - 36ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-37@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270515
+SUMMARY:Verona - Lazio
+DESCRIPTION:Lazio Primavera - 37ª giornata Primavera 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lazio-primavera-2026-27-38@lazio-primavera-ics
+DTSTART;VALUE=DATE:20270522
+SUMMARY:Lazio - Genoa
+DESCRIPTION:Lazio Primavera - 38ª giornata Primavera 1
+END:VEVENT
 END:VCALENDAR
