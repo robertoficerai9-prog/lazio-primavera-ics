@@ -1,6 +1,8 @@
 name: Update Lazio Primavera ICS
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
@@ -10,6 +12,7 @@ permissions:
 
 jobs:
   update:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
