@@ -1,8 +1,0 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Roberto Ficerai//Calendario Calcio Giovanile Completo//IT
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Calcio Giovanile - Calendario Completo
-X-WR-TIMEZONE:Europe/Rome
-END:VCALENDAR
