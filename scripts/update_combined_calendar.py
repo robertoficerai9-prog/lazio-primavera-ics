@@ -48,7 +48,7 @@ def fetch_url(url):
 def fetch_sofascore_events(team_id):
     events = {}
     for page in range(5):
-        url = f"https://www.sofascore.com/api/v1/team/{team_id}/events/next/{page}"
+        url = f"https://api.sofascore.com/api/v1/team/{team_id}/events/next/{page}"
         try:
             data = json.loads(fetch_url(url))
         except Exception:
