@@ -5,8 +5,7 @@ on:
     branches: [main]
     paths-ignore:
       - "**/*.ics"
-
-schedule:
+  schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
 
