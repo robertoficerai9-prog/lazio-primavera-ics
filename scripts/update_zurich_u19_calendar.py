@@ -4,7 +4,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 TEAM_ID = 197188
-BASE = f"https://www.sofascore.com/api/v1/team/{TEAM_ID}/events/next"
+BASE = f"https://api.sofascore.com/api/v1/team/{TEAM_ID}/events/next"
 OUT = Path("zurich-u19.ics")
 
 def fetch(page):
